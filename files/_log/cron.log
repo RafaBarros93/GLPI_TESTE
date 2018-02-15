@@ -1,0 +1,26 @@
+2018-02-06 10:54:43 [@WS202]
+Interno #1: Executar createinquest
+2018-02-06 11:10:23 [2@WS202]
+Interno #1: Executar watcher
+2018-02-06 12:28:30 [2@WS202]
+Interno #1: Executar ticketrecurrent
+2018-02-06 12:34:06 [2@WS202]
+Interno #1: Executar planningrecall
+2018-02-06 12:42:24 [2@WS202]
+Interno #1: Executar queuedmail
+2018-02-06 12:44:07 [@WS202]
+Interno #1: Executar queuedmailclean
+2018-02-06 12:44:49 [@WS202]
+Interno #1: Executar temp
+2018-02-06 12:46:24 [@WS202]
+Interno #1: Executar mailgateerror
+2018-02-06 12:46:58 [@WS202]
+Interno #1: Executar contract
+2018-02-06 12:53:06 [2@WS202]
+Interno #1: Executar infocom
+2018-02-06 13:59:46 [2@WS202]
+Interno #1: Executar optimize
+2018-02-07 13:07:15 [2@WS202]
+Interno #1: Executar mailgate
+2018-02-07 13:23:22 [2@WS202]
+Interno #1: Executar session
